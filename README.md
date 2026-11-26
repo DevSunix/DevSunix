@@ -14,4 +14,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=DevSunix&show_icons=true&theme=tokyonight)
