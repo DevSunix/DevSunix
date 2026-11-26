@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:FC3D21&height=200&section=header&text=Hola%2C%20soy%20Juan&fontSize=45&fontColor=ffffff](https://i.pinimg.com/originals/6d/39/11/6d3911d26f3b1bfc3bc39c3c8b0db42c.gif)" />
+  <img src="https://i.pinimg.com/originals/6d/39/11/6d3911d26f3b1bfc3bc39c3c8b0db42c.gif" width="100%" alt="Banner" />
 </p>
 
 ### About Me
